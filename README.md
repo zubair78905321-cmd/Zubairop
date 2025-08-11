@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+</div>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
   </div>
 <a><img src='https://i.ibb.co/C37nZNgZ/shaban-md.jpg'/></a>
@@ -150,7 +154,9 @@ jobs:
 ! Version: V.5 Neon Edition
 # License: BSD 3-Clause
 ```
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=350&color=gradient&text=FREE%20SERVES%20🥳&animation=twinkling&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+</div>
 
 
 <h3 align="center">
